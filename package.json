@@ -1,0 +1,26 @@
+{
+  "name": "s3uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arditti93/s3Uploader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arditti93/s3Uploader/issues"
+  },
+  "homepage": "https://github.com/Arditti93/s3Uploader#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1256.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
